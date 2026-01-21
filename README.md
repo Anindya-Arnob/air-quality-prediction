@@ -3,6 +3,8 @@
 open code in google colab: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anindya-Arnob/air-quality-prediction/blob/main/Airquality_pred.ipynb)
 
+Data Set download Link : https://aqicn.org/historical/#city:germany/berlin
+
 Berlin Air Quality Prediction using LSTM: 
   This project provides an end-to-end machine learning pipeline to predict air quality levels (specifically PM2.5) in Berlin. It integrates cloud-based data storage with deep learning time-series forecasting.
 
